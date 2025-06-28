@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang ="zh-cn">
+    <head>
+    <meta charset =UTF-8>
+    <title >我的网站</title>
+    </head>
+    <body>
+        <h1>这是一个测试页面！</h1>
+        <n>你好！我是....</n>
+        <p>哈哈！我的网站</p>
+        <img src="https://seopic.699pic.com/photo/50034/5277.jpg_wh1200.jpg" alt="示例图片" width="300" height="200">
+        <p>这是一个段落！</p>
+    </body>
+</html>
